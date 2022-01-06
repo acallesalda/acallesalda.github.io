@@ -82,11 +82,9 @@ analytics:
 author:
   name             : "Alejandro Calle-Saldarriaga"
   avatar           : "profile.png"
-  bio              : "Mathematical Engineer and Applied Mathematician from Universidad EAFIT. Would
-                      describe myself as an Statistician, or Data Scientist, whatever flavour you prefer.
-                      My research interest include Functional Data Analysis, robust statistics, nonparametric
-                      statistics, and statistical learning. Currently teaching some classes at Universidad 
-                      EAFIT and working at Somos. https://www.somosinternet.co/"
+  bio              : "Would describe myself as an Statistician or data scientist, whatever flavour
+                      you prefer. See CV section for full bio. Research interests: FDA, Robust/nonparametric
+                      statistics, statistical learning."
   location         : "Medellín, Colombia."
   employer         : "Universidad EAFIT. Somos."
   pubmed           : ""
