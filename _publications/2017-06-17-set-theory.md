@@ -1,5 +1,5 @@
 ---
-title: "Homogeneity tests for functional data based on depth-depth plots with chemical applications"
+title: "A set theory formalization in Agda."
 collection: publications
 permalink: /publication/2017-06-17
 excerpt: 'A set theory formalization in Agda.'
