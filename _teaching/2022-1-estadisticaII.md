@@ -8,4 +8,4 @@ date: 2022-01-24
 location: "Medellín, Colombia"
 ---
 
-Descripción del curso. To do. 
+La página del curso. Acá voy a ir montando algunas cosas, pero para más detalle, ver las notas de clase [acá](https://acallesalda.github.io/files/Notas_de_clase_Estad_stica_II.pdf)
