@@ -13,3 +13,4 @@ I am a Mathematical Engineer (BSc.) and Applied Mathematician (MSc.) from Univer
 News
 ======
 6/01/2022: Created this website, which I plan to update continuously. 
+3/21/2022: Accepted the admission at UW Madison's PhD. in Statistics. Very excited!
