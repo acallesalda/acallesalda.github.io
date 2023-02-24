@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mathematical Engineer (BSc.) and Applied Mathematician (MSc.) from Universidad EAFIT. My interest are functional data analysis, non-parametric statistics, robust statistics, statistical learning, computational logic, and optimization. Outside of math/statistics, I quite enjoy reading (see my [goodreads](https://www.goodreads.com/user/show/5880518-alejandro-calle-saldarriaga)). Right now I work as a lecturer at Universidad EAFIT (functional data analysis, statistics) and as a data (lead, generalist?) at [somos](https://www.somosinternet.co/).
+I am a Mathematical Engineer (BSc.) and Applied Mathematician (MSc.) from Universidad EAFIT. My interest are functional data analysis, non-parametric statistics, robust statistics, statistical learning, computational logic, and optimization. Outside of math/statistics, I quite enjoy reading (see my [goodreads](https://www.goodreads.com/user/show/5880518-alejandro-calle-saldarriaga)). Right now I am doing my PhD. in Statistics at the University of Wisconsin-Madison (https://stat.wisc.edu/staff/calle-saldarriaga-alejandro/)
 
 News
 ======
