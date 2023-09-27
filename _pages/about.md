@@ -14,3 +14,4 @@ News
 ======
 6/01/2022: Created this website, which I plan to update continuously.   
 3/21/2022: Accepted the admission at UW Madison's PhD. in Statistics. Very excited!
+9/27/2023: Remembered this page existed. Passed my qualifying exam some weeks ago, which was nice. 
