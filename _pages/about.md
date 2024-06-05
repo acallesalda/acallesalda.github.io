@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mathematical Engineer (BSc.) and Applied Mathematician (MSc.) from Universidad EAFIT. My interest are functional data analysis, non-parametric statistics, robust statistics, statistical learning, computational logic, and optimization. Outside of math/statistics, I quite enjoy reading (see my [goodreads](https://www.goodreads.com/user/show/5880518-alejandro-calle-saldarriaga)). Right now I am doing my PhD. in Statistics at the University of Wisconsin-Madison (https://stat.wisc.edu/staff/calle-saldarriaga-alejandro/)
+I am a second year PhD. student in statistics at [University of Wisconsin-Madison](https://stat.wisc.edu). My interests are Gaussian processes, probabilistic forecasting and Bayesian inference. I am currently working in the [Katzfuss group](https://sites.google.com/view/katzfuss/group) 
+
+I completed a BSc. and a MSc. at Universidad EAFIT and worked some years as a Data Scientist before starting my PhD. Outside of math/statistics, I quite enjoy reading (see my [goodreads](https://www.goodreads.com/user/show/5880518-alejandro-calle-saldarriaga)). 
 
 News
 ======
-6/01/2022: Created this website, which I plan to update continuously.   
-3/21/2022: Accepted the admission at UW Madison's PhD. in Statistics. Very excited!
-9/27/2023: Remembered this page existed. Passed my qualifying exam some weeks ago, which was nice. 
+May 2024: Will be giving some talks over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/) and [METMA XI](https://metmaxi.netlify.app)
+Sep 2023: Started working in the [Katzfuss group](https://sites.google.com/view/katzfuss/group) 
+Aug 2023: Passed the Statistics' PhD qualifying exam at the University of Wisconsin-Madison 

@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-See my CV [here](https://acallesalda.github.io/files/CV_ingles.pdf).
+See my CV [here](https://acallesalda.github.io/files/CV.pdf).
