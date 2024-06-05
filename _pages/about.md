@@ -14,6 +14,8 @@ I completed a BSc. and a MSc. at Universidad EAFIT and worked some years as a Da
 
 News
 ======
-May 2024: Will be giving some talks over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/) and [METMA XI](https://metmaxi.netlify.app)
-Sep 2023: Started working in the [Katzfuss group](https://sites.google.com/view/katzfuss/group) 
-Aug 2023: Passed the Statistics' PhD qualifying exam at the University of Wisconsin-Madison 
+May 2024: Will be giving some talks over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/) and [METMA XI](https://metmaxi.netlify.app).
+
+Sep 2023: Started working in the [Katzfuss group](https://sites.google.com/view/katzfuss/group).
+
+Aug 2023: Passed the Statistics' PhD qualifying exam at the University of Wisconsin-Madison.
