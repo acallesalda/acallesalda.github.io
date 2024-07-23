@@ -14,7 +14,10 @@ I completed a BSc. and a MSc. at Universidad EAFIT and worked some years as a Da
 
 News
 ======
-May 2024: Will be giving some talks over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/) and [METMA XI](https://metmaxi.netlify.app).
+
+July 2024: Scheduled to present a poster at a minisymposium at [SIAM MDS24](https://meetings.siam.org/program.cfm?CONFCODE=MDS24) 
+
+May 2024: Will be giving a talk over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/).
 
 Sep 2023: Started working in the [Katzfuss group](https://sites.google.com/view/katzfuss/group).
 
