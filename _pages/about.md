@@ -15,11 +15,11 @@ I completed a BSc. and a MSc. at Universidad EAFIT and worked some years as a Da
 News
 ======
 
-September 2025: Participated in this [IMSI Long program](https://www.imsi.institute/activities/digital-twins)
+September 2025: Participated in this [IMSI Long program](https://www.imsi.institute/activities/digital-twins).
 
-September 2025: Posted pre-print relating to [autoregressive GPs](https://arxiv.org/pdf/2509.22474)
+September 2025: Posted pre-print relating to [autoregressive GPs](https://arxiv.org/pdf/2509.22474).
 
-July 2024: Scheduled to present a poster at a minisymposium at [SIAM MDS24](https://meetings.siam.org/program.cfm?CONFCODE=MDS24) 
+July 2024: Scheduled to present a poster at a minisymposium at [SIAM MDS24](https://meetings.siam.org/program.cfm?CONFCODE=MDS24). 
 
 May 2024: Will be giving a talk over the summer at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/).
 
